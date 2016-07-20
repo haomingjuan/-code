@@ -1,1 +1,6 @@
+
 switch i love you!
+
+git log --graph --pretty=oneline --abbrev-commit 
+hello world  lsjfla;jfjgh jowie4gill hello world hello world
+
